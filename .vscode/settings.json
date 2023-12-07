@@ -51,6 +51,7 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3D URP Test.sln",
-    "git.ignoreLimitWarning": true
+    "dotnet.defaultSolution": "NatureScene.sln",
+    "git.ignoreLimitWarning": true,
+    "workbench.colorTheme": "eppz!"
 }
